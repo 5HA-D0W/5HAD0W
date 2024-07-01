@@ -1,8 +1,8 @@
 🔭 I’m currently in 4th Year of Computer Engineering @SCET
 
-🌱 I’m learning Full Stack Development.
+🌱 I’m learning Front-End Development.
 
-🤝 I’m very proficient with PHP, MySQL and Custom Web Development.
+🤝 I’m very proficient with HTML, CSS, and ReactJS.
 
 📫 How to reach me smitsolanki303@gmail.com
 
